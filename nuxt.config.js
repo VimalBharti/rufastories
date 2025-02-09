@@ -6,6 +6,7 @@ export default defineNuxtConfig({
   supabase: {
     redirect: false,
   },
+  ssr: false,
   css: [
     '@/assets/css/main.css',
   ],
