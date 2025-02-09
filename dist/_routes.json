@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "include": [
+    "/*"
+  ],
+  "exclude": [
+    "/_nuxt/*",
+    "/.DS_Store",
+    "/favicon.ico",
+    "/hub.config.json",
+    "/robots.txt",
+    "/images/.DS_Store",
+    "/images/2.jpg",
+    "/images/3.jpg",
+    "/images/4.jpg",
+    "/images/5.jpg",
+    "/images/forest.jpeg",
+    "/images/login.jpeg",
+    "/images/logo-black.png",
+    "/images/logo.jpeg",
+    "/images/logo.png",
+    "/images/logo1.jpeg",
+    "/images/nature_2.jpeg",
+    "/images/nature.jpeg",
+    "/images/nature.jpg",
+    "/images/nature.png",
+    "/images/podcast.jpeg",
+    "/images/rushu.png",
+    "/images/shape.png",
+    "/images/billboard/10.png",
+    "/images/billboard/11.png",
+    "/images/billboard/12.png",
+    "/images/billboard/13.png",
+    "/images/billboard/3.png",
+    "/images/billboard/4.png",
+    "/images/billboard/5.png",
+    "/images/billboard/6.png",
+    "/images/billboard/7.png",
+    "/images/billboard/8.png",
+    "/images/billboard/9.png"
+  ]
+}
