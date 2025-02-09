@@ -86,7 +86,7 @@
     colorMode: 'light'
   })
   useHead({
-    title: 'RuFa - Welcome to RuFa',
+    title: 'RufaStories - Welcome to RuFaStories',
     meta: [
       { name: 'description', content: 'rufa - nature, health culture, history, literature blogs and podcasts' }
     ]
