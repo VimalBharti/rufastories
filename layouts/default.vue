@@ -1,9 +1,8 @@
 <template>
-    <div class="pb-16">
+    <div class="pb-16 h-full bg-white">
       <slot />
       <!-- Floating nav -->
       <FloatBottomNav />
-      <MainFooter />
     </div>
   </template>
   

@@ -2,7 +2,12 @@
 export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
-  modules: ['@nuxt/ui', '@nuxtjs/supabase', '@nuxthub/core'],
+  modules: [
+    '@nuxt/ui',
+    '@nuxtjs/supabase',
+    '@nuxthub/core',
+    '@nuxt/image'
+  ],
   supabase: {
     redirect: false,
   },
@@ -10,6 +15,9 @@ export default defineNuxtConfig({
   css: [
     '@/assets/css/main.css',
   ],
+  app: {
+    pageTransition: { name: 'page', mode: 'out-in' }
+  },
   hub: {
 
   }

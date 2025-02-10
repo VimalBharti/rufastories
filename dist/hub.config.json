@@ -1,7 +1,7 @@
 {
-  "ai": true,
+  "ai": false,
   "analytics": false,
-  "blob": true,
+  "blob": false,
   "browser": false,
   "cache": false,
   "database": false,

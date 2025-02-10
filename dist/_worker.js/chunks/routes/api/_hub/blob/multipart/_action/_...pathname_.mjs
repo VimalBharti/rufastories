@@ -1,2 +1,0 @@
-import{e as a,r as t,i as o,h as s}from"../../../../../../nitro/nitro.mjs";import{r as e}from"../../../../../../_/auth.mjs";import"node:async_hooks";const r=a((async a=>{await e(a),t("blob");const r={...o(a)};if("string"==typeof r.customMetadata)try{r.customMetadata=JSON.parse(r.customMetadata)}catch(a){r.customMetadata={}}return a.context.params.pathname=decodeURIComponent(a.context.params.pathname),await s().handleMultipartUpload(a,{...r})}));export{r as default};
-//# sourceMappingURL=_...pathname_.mjs.map
